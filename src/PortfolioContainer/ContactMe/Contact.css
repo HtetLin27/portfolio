@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.contact{
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    padding-top: 50px;
+    font-family: sans-serif;
+    padding-bottom: 50px;
+}
+.contact-header{
+    text-transform: uppercase;
+    margin-bottom: 60px;
+}
+.contactme-title{
+    text-transform: uppercase;
+}
+.contact-icon{
+    margin-right: 5px;
+}
+.contact-info{
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.btn-send{
+    background-color: #3498db;
+    color: #fff;
+}
+.btn-send:hover{
+    background-color: #f39c12;
+    color: #fff;
+}
+.col-social{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+.cvdown{
+    margin-top: -25px;
+}
+.form-box{
+    padding-top: 20px;
+}
+
+@media only screen and (max-width:1200px){
+   
+}
+@media only screen and (max-width:1023px){
+    .form-box{
+        padding-left: 50px;
+    }
+}
+
+@media only screen and (max-width:767px){
+    .col-social{
+        font-size: 40px;
+        margin-left: 50px;
+    }
+    .cvdown{
+        margin-left: 50px;
+    }
+    .form-box{
+        padding-left: 10px;
+    }
+    
+}
+@media only screen and (max-width:480px){
+    
+    .cvdown{
+        margin-top: -30px;
+        margin-left: 50px;
+    }
+    .form-box{
+        padding-left: 5px;
+    }
+    
+}

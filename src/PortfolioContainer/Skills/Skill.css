@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.row-box{
+    margin-top: 50px;
+    padding-bottom: 100px;
+}
+.skill-title{
+    text-transform: uppercase;
+}
+.skills{
+    background-color: #34495e;
+    font-family: sans-serif;
+}
+.edu-row{
+    margin-top: 50px;
+    color: #f1c40f;
+}
+.edu-list{
+    margin-top: 20px;
+    padding-left: 50px;
+   
+}
+.skill-box{
+    padding-top: 50px;
+    color: #ecf0f1;
+  
+}
+.progress-title{
+    margin-top: 10px;
+    padding-left: 20px;
+}
+.html-bar{
+    width: 80%;
+    background-color: #27ae60
+}
+.css-bar{
+    width: 80%;
+    background-color: #27ae60;
+}
+.js-bar{
+    width: 70%;
+    background-color: #27ae60;
+}
+.react-bar{
+    width: 65%;
+    background-color: #27ae60;
+}
+.jquery-bar{
+    width: 60%;
+    background-color: #27ae60;
+}
+
+.mongo-bar{
+    width: 70%;
+    background-color: #27ae60;
+}
+.bootstrap-bar{
+    width: 70%;
+    background-color: #27ae60;
+}
+.node-bar{
+    width: 50%;
+    background-color: #27ae60;
+}
+
