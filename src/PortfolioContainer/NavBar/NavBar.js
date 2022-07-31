@@ -41,6 +41,9 @@ export default function NavBar() {
     </ul>
   </div>
 </nav>
+
+
+</div>
 <div>
 <Routes>
   <Route path='/home' element={<Profile/>}></Route>
@@ -50,8 +53,6 @@ export default function NavBar() {
   <Route path='/timeline' element={<Timeline/>}></Route>
   <Route path='/contact' element={<Contact/>}></Route>
 </Routes>
-</div>
-
 </div>
 </BrowserRouter>
   </>
