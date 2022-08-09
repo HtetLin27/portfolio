@@ -3,7 +3,7 @@ import './Projects.css'
 
 export default function Projects() {
   return (
-    <div>
+    <div id='projects'>
         <div className='project-box'>
             <div className='project-header text-center'>
                 <h2>My Projects</h2>
@@ -73,6 +73,20 @@ export default function Projects() {
                         <img className='project-img' src='/assets/image/refport.jpg'/>
                          <div className='project-link'>
                             <a  href='https://github.com/HtetLin27/Porfolio-Refer-FreeCodeCamp' target='_blank'><i className="fa-brands fa-github"></i>
+                             <h6 className='link-text'>More Details</h6>
+                            </a>
+                         </div>
+                        </div>
+                    
+                    </div>
+                    <div className='col-md-4'>
+                    <div className='project-item'>
+                        <div className='project-title'>
+                            <h5>LinkedIn Clone</h5>
+                        </div>
+                        <img className='project-img' src='/assets/image/linkedIn.jpg'/>
+                         <div className='project-link'>
+                            <a  href='https://github.com/HtetLin27/linkedin-clone' target='_blank'><i className="fa-brands fa-github"></i>
                              <h6 className='link-text'>More Details</h6>
                             </a>
                          </div>

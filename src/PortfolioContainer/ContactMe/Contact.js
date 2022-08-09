@@ -10,7 +10,7 @@ export default function Contact() {
         .catch(e=>console.log(e))
     }
   return (
-    <div className='contact'>
+    <div className='contact' id='contact'>
         <div className='container'>
         <div className='contact-header text-center'>
             <h2>contact me</h2>

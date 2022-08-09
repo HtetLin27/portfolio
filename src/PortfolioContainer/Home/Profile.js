@@ -5,7 +5,7 @@ import './Profile.css'
 
 export default function Profile() {
   return (<>
-    <div className='profile-container container-fluid  text-center '>
+    <div className='profile-container container-fluid  text-center ' id='home'>
         <div className='profile-parent text-center '>
             <div className='profile-details'>
                 <div className='colz'>

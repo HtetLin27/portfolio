@@ -4,7 +4,7 @@ import './Timeline.css'
 export default function Timeline() {
   return (
     <>
-    <div className='timeline container-fluid'>
+    <div className='timeline container-fluid' id='timeline'>
     <div className='timeline-Box container'>
         <h2 className='timeline-header text-center'>My Timeline</h2>
         <div className='row'>

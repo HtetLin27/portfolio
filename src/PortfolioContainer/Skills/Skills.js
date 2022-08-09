@@ -3,7 +3,7 @@ import './Skill.css';
 export default function Skills() {
   return (
     <>
-    <div className='skills'>
+    <div className='skills' id='skills'>
     <div className='container skill-box'>
         <h2 className='skill-title text-center'>Skills And Education</h2>
         <div className='row edu-row'>
