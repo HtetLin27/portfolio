@@ -56,7 +56,8 @@ export default function Profile() {
             </div>
         </div>
         <div className='text-center'>
-        <a href='https://drive.google.com/file/d/1oZYmv2Jq8qBERCdauKyIKdkU_kV8qb9M/view' target='_blank' className='cvdownload'>
+        <a href='https://drive.google.com/file/d/1Yn6GqBs_kiQSR5tYYr51yztv4XgcbQ_J/view?usp=sharing'
+         target='_blank' className='cvdownload'>
         <i className="fa-solid fa-download "></i> Download CV
         </a>
         </div>

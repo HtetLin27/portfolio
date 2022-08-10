@@ -14,7 +14,7 @@ export default function NavBar() {
       spy={true}
       smooth={true}
       offset={-300}
-      duration={500} className="navbar-brand nav-logo " >My Portfolio</Link>
+      duration={500} className="navbar-brand nav-logo text-light" >My Portfolio</Link>
   <button className="navbar-toggler navbtn-toggle" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon text-dark"><i className="fa-solid fa-bars nav-icon"></i></span>
   </button>

@@ -40,6 +40,33 @@ export default function Projects() {
                     <div className='col-md-4'>
                     <div className='project-item'>
                         <div className='project-title'>
+                            <h5>Social Media</h5>
+                        </div>
+                        <img className='project-img' src='/assets/image/social-media.png'/>
+                         <div className='project-link'>
+                            <a  href='https://social-media-with-mui.netlify.app/' target='_blank'><i className="fa-brands fa-github"></i>
+                             <h6 className='link-text'>More Details</h6>
+                            </a>
+                         </div>
+                        </div>
+                    </div>
+                    <div className='col-md-4'>
+                    <div className='project-item'>
+                        <div className='project-title'>
+                            <h5>LinkedIn Clone</h5>
+                        </div>
+                        <img className='project-img' src='/assets/image/linkedIn.jpg'/>
+                         <div className='project-link'>
+                            <a  href='https://github.com/HtetLin27/linkedin-clone' target='_blank'><i className="fa-brands fa-github"></i>
+                             <h6 className='link-text'>More Details</h6>
+                            </a>
+                         </div>
+                        </div>
+                    
+                    </div>
+                    <div className='col-md-4'>
+                    <div className='project-item'>
+                        <div className='project-title'>
                             <h5>Resturant</h5>
                         </div>
                         <img className='project-img' src='/assets/image/resturant.jpg'/>
@@ -79,20 +106,7 @@ export default function Projects() {
                         </div>
                     
                     </div>
-                    <div className='col-md-4'>
-                    <div className='project-item'>
-                        <div className='project-title'>
-                            <h5>LinkedIn Clone</h5>
-                        </div>
-                        <img className='project-img' src='/assets/image/linkedIn.jpg'/>
-                         <div className='project-link'>
-                            <a  href='https://github.com/HtetLin27/linkedin-clone' target='_blank'><i className="fa-brands fa-github"></i>
-                             <h6 className='link-text'>More Details</h6>
-                            </a>
-                         </div>
-                        </div>
                     
-                    </div>
                 </div>
             </div>
         </div>
